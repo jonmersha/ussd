@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="app_name">wegagen</string>
+    <string name="beneficiary">Beneficiary</string>
+    <string name="cheque">cheque</string>
+    <string name="balance">Account Enquiry</string>
+    <string name="transfer">Transfer</string>
+    <string name="bill_payment">Bill Payment</string>
+    <string name="airline_payment">Airline Payment</string>
+    <string name="information">Information</string>
+    <string name="admin">Admin</string>
+</resources>
